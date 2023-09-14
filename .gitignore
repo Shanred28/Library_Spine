@@ -361,3 +361,27 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vscode
+/Assets/LightningBolt
+/Assets/Prefabs
+/Assets/Resources
+/Assets/Scenes
+/Assets/Settings
+/Assets/Spine
+/Assets/TestGame
+/Assets/TextMesh Pro
+*.asset
+/Library
+/ProjectSettings
+/Temp
+/UserSettings
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/spine-csharp.csproj
+/spine-unity-editor.csproj
+/spine-unity-examples-editor.csproj
+/spine-unity-examples.csproj
+/spine-unity.csproj
+/test-game.sln
+/TestTask_01.sln
